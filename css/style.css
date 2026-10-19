@@ -246,3 +246,21 @@ footer p {
         font-size: 0.9rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
+/* Style pour le lien de navigation actif */
+nav a.active {
+    font-weight: 700;
+}
+
+nav a.active::after {
+    width: 100%;
+}
