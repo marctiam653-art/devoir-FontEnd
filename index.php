@@ -10,7 +10,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">TD1 Front-End</div>
+            <div class="logo">Acceuil</div>
             <ul>
                 <li><a href="#introduction">Introduction</a></li>
                 <li><a href="#responsabilites">Responsabilités</a></li>
@@ -24,7 +24,7 @@
     <main>
         <section class="hero">
             <h1>Analyse du rôle du développeur Front-end</h1>
-            <p class="subtitle">Fiche de travaux dirigés 1 - Exercice 1</p>
+            <p class="subtitle">Reflexion poussée par le docteur Marc Tchatchui</p>
         </section>
 
         <section id="introduction">
@@ -102,8 +102,8 @@
     </main>
 
     <footer>
-        <p>&copy; <?php echo date('Y'); ?> - TD1 Développement d'Interfaces Front-End | Rapport réalisé dans le cadre des travaux dirigés</p>
-        <p class="version">Version progressive avec Git | Généré le <?php echo date('d/m/Y à H:i'); ?></p>
+        <p>&copy; <?php echo date('Y'); ?> -  Développement d'Interfaces Front-End realiser par le docteur Marc Tchatchui</p>
+       
     </footer>
 
     <script src="js/script.js"></script>
