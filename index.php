@@ -102,8 +102,8 @@
     </main>
 
     <footer>
-        <p>&copy; 2025 - TD1 Développement d'Interfaces Front-End | Rapport réalisé dans le cadre des travaux dirigés</p>
-        <p class="version">Version progressive avec Git</p>
+        <p>&copy; <?php echo date('Y'); ?> - TD1 Développement d'Interfaces Front-End | Rapport réalisé dans le cadre des travaux dirigés</p>
+        <p class="version">Version progressive avec Git | Généré le <?php echo date('d/m/Y à H:i'); ?></p>
     </footer>
 
     <script src="js/script.js"></script>
